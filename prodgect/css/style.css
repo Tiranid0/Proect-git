@@ -1,0 +1,696 @@
+*{
+    margin: 0 auto;
+}
+
+body{
+   width: auto;
+   
+}
+/* Шапка */
+header{
+height: 75px;
+width: 100%;
+position: relative;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 98.04%;
+background-color: #222222;
+}
+/* logo group */
+.logo{
+height: 38px;
+width: 110px;
+left: 231px;
+top: 18px;
+}
+
+.brand-icons{
+position: absolute;
+height: 38px;
+width: 44px;
+left: 231px;
+top: 18px;
+}
+
+.search-icons{
+margin-left: 41px; 
+position: absolute;
+bottom: 98.56%;
+height: 26px;
+width: 26px;
+left: 315px;
+top: 28px;
+}
+/* button copy */
+
+.button-copy{
+height: 37px;
+width: 168px;
+left: 1201px;
+top: 18px;
+}
+
+
+.navigation{
+height: 23px;
+width: 32px;
+left: 1201px;
+top: 30px;
+position: absolute;
+}
+
+.personal-area{
+position: absolute;
+height: 29px;
+width: 29px;
+left: 1266px;
+top: 26px;
+}
+
+.basket{
+height: 29px;
+width: 31px;
+left: 1328px;
+top: 26px;
+position: absolute;
+background: url(../img/Forma\ 3.png);
+}
+
+
+/*.ellipse1{
+height: 19px;
+width: 19px;
+left: 1350px;
+top: 18px;
+border-radius: 0px;
+position: absolute;
+background: #F16D7F;
+}
+*/
+
+
+
+
+/*bacbground*/
+.background{
+position: relative;
+height: 764px;
+width: 100%;
+background: #F1E4E6;
+}
+
+.main-image{
+width: 800px;
+height: 764px;
+position: absolute;
+background: url(../img/Layer1.png);
+}
+
+.group{
+height: 93px;
+width: 421px;
+left: 864px;
+top: 364px;
+position: absolute;
+}
+.group img{
+    margin-left: 16px;
+}
+
+/*offer*/
+
+
+.for-women{
+    position: absolute;
+    height: 260px;
+    width: 360px;
+    left: 230px;
+    top: 904px;
+    background: url(../img/1-for\ women.png);
+}
+.for-men{
+    position: absolute;
+    height: 260px;
+    width: 360px;
+    left: 620px;
+    top: 904px;
+    background: url(../img/2-for\ men.png);
+}
+.for-kids{
+    position: absolute;
+    height: 260px;
+    width: 360px;
+    left: 1010px;
+    top: 904px;
+background: url(../img/3-for\ kids.png);
+}
+.for-accesories{
+    position: absolute;
+    height: 180px;
+    width: 1140px;
+    left: 230px;
+    top: 1194px;
+    background: url(../img/4-ACCESORIES.png);
+}
+
+/*product*/
+.product{
+
+height: 1395px;
+width: 1140px;
+left: 230px;
+top: 1470px;
+position: absolute;
+}
+
+.product h2{
+height: 36px;
+width: 200px;
+left: 710px;
+top: 1470px;
+margin-bottom: 10px;
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 36px;
+color: #222222;
+}
+.product p{
+font-family: 'Lato', sans-serif;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 17px;
+letter-spacing: 0em;
+text-align: center;
+color: #9F9F9F;
+}
+
+.winter-jacket{
+position: absolute;
+height: 581px;
+width: 360px;
+background: #F8F8F8;
+margin-top: 48px;
+}
+
+.winter-jacket h4{
+text-transform: uppercase;
+height: 16px;
+width: 148;
+margin-top: 25px;
+margin-left: 18px ;
+top: 2021px;
+font-family: 'Lato', sans-serif;
+font-style: normal;
+font-weight:bold;
+font-size: 13px;
+line-height: 16px;
+color: #000000;
+
+}
+
+.winter-jacket p{
+    font-family: 'Lato', sans-serif;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 17px;
+letter-spacing: 0em;
+margin: 12px 0 18px 18px ;
+
+color: #9F9F9F;
+}
+.winter-jacket span{
+font-family: 'Lato', sans-serif;
+height: 19px;
+width: 52px;
+margin-left: 18px;
+color:  #F16D7F;
+}
+   
+
+
+
+.womens-dress{
+position: absolute;
+ height: 581px;
+width: 360px;
+left: 360px;
+margin-left: 30px;
+margin-top: 48px;
+background: #F8F8F8;
+}
+    
+.womens-dress h4{
+text-transform: uppercase;
+height: 16px;
+width: 148;
+margin-top: 25px;
+margin-left: 18px ;
+top: 2021px;
+font-family: 'Lato', sans-serif;
+font-style: normal;
+font-weight:bold;
+font-size: 13px;
+line-height: 16px;
+color: #000000;
+}
+    
+.womens-dress p{
+font-family: 'Lato', sans-serif;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 17px;
+letter-spacing: 0em;
+margin: 12px 0 18px 18px ;   
+color: #9F9F9F;
+}
+.womens-dress span{
+font-family: 'Lato', sans-serif;
+height: 19px;
+width: 52px;
+margin-left: 18px;
+color:  #F16D7F;
+}
+.jacket{
+position: absolute;
+margin-top: 48px;
+height: 581px;
+width: 360px;
+left: 750px;
+margin-left: 30px;
+background: #F8F8F8;
+}
+        
+.jacket h4{
+text-transform: uppercase;
+height: 16px;
+width: 148;
+margin-top: 25px;
+margin-left: 18px ;
+top: 2021px;
+font-family: 'Lato', sans-serif;
+font-style: normal;
+font-weight:bold;
+font-size: 13px;
+line-height: 16px;
+color: #000000;
+}
+        
+.jacket p{
+font-family: 'Lato', sans-serif;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 17px;
+letter-spacing: 0em;
+margin: 12px 0 18px 18px ;
+color: #9F9F9F;
+}
+.jacket span{
+font-family: 'Lato', sans-serif;
+height: 19px;
+width: 52px;
+margin-left: 18px;
+color:  #F16D7F;
+}
+
+
+.t-shirt{
+position: absolute;
+height: 581px;
+width: 360px;
+margin-top: 78px;
+top: 633px;
+background: #F8F8F8;
+}
+            
+.t-shirt h4{
+text-transform: uppercase;
+height: 16px;
+width: 148;
+margin-top: 25px;
+margin-left: 18px ;
+top: 2021px;
+font-family: 'Lato', sans-serif;
+font-style: normal;
+font-weight:bold;
+font-size: 13px;
+line-height: 16px;
+color: #000000;
+}
+            
+.t-shirt p{
+font-family: 'Lato', sans-serif;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 17px;
+letter-spacing: 0em;
+ margin: 12px 0 18px 18px ;
+color: #9F9F9F;
+}
+.t-shirt span{
+font-family: 'Lato', sans-serif;
+height: 19px;
+width: 52px;
+margin-left: 18px;
+color:  #F16D7F;
+}
+
+.womens-jacket{
+position: absolute;
+height: 581px;
+width: 360px;
+margin-top: 78px;
+top: 633px;
+left: 360px;
+margin-left: 30px;
+background: #F8F8F8;
+}
+                
+.womens-jacket h4{
+height: 16px;
+width: 148;
+text-transform: uppercase;
+margin-top: 25px;
+margin-left: 18px ;
+top: 2021px;
+font-family: 'Lato', sans-serif;
+font-style: normal;
+font-weight:bold;
+font-size: 13px;
+line-height: 16px;
+color: #000000;
+}
+                
+.womens-jacket p{
+font-family: 'Lato', sans-serif;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 17px;
+letter-spacing: 0em;
+margin: 12px 0 18px 18px ;
+color: #9F9F9F;
+}
+.womens-jacket span{
+font-family: 'Lato', sans-serif;
+height: 19px;
+width: 52px;
+margin-left: 18px;
+color:  #F16D7F;
+}
+
+
+
+.shirt{
+position: absolute;
+height: 581px;
+width: 360px;
+left: 750px;
+margin-left: 30px;
+margin-top: 78px;
+top: 633px;
+background: #F8F8F8;
+}
+                
+.shirt h4{
+text-transform: uppercase;
+height: 16px;
+width: 148;
+margin-top: 25px;
+margin-left: 18px ;
+top: 2021px;
+font-family: 'Lato', sans-serif;
+font-style: normal;
+font-weight:bold;
+font-size: 13px;
+line-height: 16px;
+color: #000000;
+}
+                
+.shirt p{
+font-family: 'Lato', sans-serif;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 17px;
+letter-spacing: 0em;
+margin: 12px 0 18px 18px ;
+color: #9F9F9F;
+}
+.shirt span{
+font-family: 'Lato', sans-serif;
+height: 19px;
+width: 52px;
+margin-left: 18px;
+color:  #F16D7F;
+}
+
+
+.product button{
+position: absolute;
+height: 47px;
+width: 211px;
+margin-top: 98px;
+left: 480px;
+top: 1245px;
+border: 1px solid #F26376;
+background-color: white;
+font-family: 'Lato', sans-serif;
+color: #F26376;
+
+}
+
+
+
+
+/*feature*/
+
+.feature{
+height: 341px;
+width: 100%;
+background: #222224;
+position: absolute;
+top: 2920px;
+}
+
+.delivery{
+height: 134px;
+width: 360px;
+left: 230px;
+top: 103px;
+position: absolute;
+}
+
+.discounts{
+height: 134px;
+width: 360px;
+left: 620px;
+top: 103px;
+position: absolute;
+}
+.qualty-assuranse{
+height: 134px;
+width: 360px;
+left: 1010px;
+top: 103px;
+position: absolute;
+}
+
+
+.delivery, .discounts, .qualty-assuranse, img{
+    text-align: center;
+}
+
+.delivery, .discounts, .qualty-assuranse, h2{
+margin-top: 19px ;
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 19.96px;
+line-height: 24px;
+color: #FBFBFB;
+}
+
+.delivery, .discounts, .qualty-assuranse, p{
+font-family: Lato;
+font-style: normal;
+font-weight: 300;
+font-size: 15.972px;
+line-height: 20px;
+color: #FBFBFB;
+margin-top: 16px;
+}
+
+
+
+/*mailing*/
+
+.mailing{
+position: absolute;
+width: 100%;
+height: 448px;
+top: 3260px;
+margin: 0 auto;
+background: url(../img/photo\ subscribe.jpg);
+}
+.subscribe-info{
+position: absolute;
+width: 359.45px;
+height: 225px;
+left: 230.29px;
+top: 200px;
+}
+
+.subscribe-info p{
+    font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #222224;
+}
+
+.subscribe{
+height: 142px;
+width: 557px;
+left: 813px;
+top: 150px;
+position: absolute;
+
+}
+
+.subscribe h2{
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 167.2%;
+text-align: center;
+color: #222224;
+}
+.subscribe h3{
+    font-family: Lato;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 167.2%;
+text-align: center;
+color: #222224;
+}
+
+.mailing-form{
+height: 49px;
+width: 256px;
+left: 105px;
+margin-top: 32px;
+background: #E1E1E1;
+position: absolute;
+border-top-left-radius: 10px;
+border-bottom-left-radius: 10px;
+}
+
+.ruunder1{
+ height: 49px;
+width: 100px;
+left: 360px;
+margin-top: 32px;
+background: #F16D7F;
+position: absolute;
+border-top-right-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+.mailing-form input{
+
+height: 20px;
+width: 170px;
+left: 15px;
+top:10px;
+position: absolute;
+border: 0 solid;
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+display: flex;
+align-items: center;
+background-color:#E1E1E1; ;
+color: #222224;
+opacity: 0.67;
+}
+.ruunder1 button{
+height: 36px;
+top:4px;
+left: 10px;
+width: 85px;
+background: #F16D7F;
+position: absolute;
+border: 0 solid;
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+
+/*footer*/
+
+footer{
+height: 79px;
+width: 100%;
+top: 3702px;
+position: absolute;
+background: #222224;
+}
+
+footer P{
+height: 19px;
+width: 332px;
+top:20px;
+left: 205px;
+position: absolute;
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+
+color: #FBFBFB;
+}
+
+.icons{
+height: 32px;
+width: 177px;
+left: 1200px;
+top: 30px;
+position: absolute;
+border-radius: 0px;
+
+}
+
+
+.faccebok-icons, .instaram-icons, .pixess-icons, .twitter-icons {
+    background-color: #E1E1E1;
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin-left: 10px;
+    text-align: center;
+    padding-top: 5px;
+}
+
